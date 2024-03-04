@@ -19,7 +19,6 @@ function App() {
 
 	return (
 		<>
-			<div>
 				<div className='card'>
 					{isPending && <CircularProgress />}
 					{isSuccess && <Card pokemon={data} />}
@@ -35,7 +34,6 @@ function App() {
 						disabled={!searchVerification(search)}
 						className={!searchVerification(search) ? 'disabled-button' : ''}>Search</button>
 				</div>
-			</div>
 		</>
 	)
 }
