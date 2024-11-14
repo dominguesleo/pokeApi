@@ -18,8 +18,6 @@ This project is a practical example of using the Axios library to make HTTP requ
 
 - **Native CSS:** The remaining component styles were created using native CSS, including dynamic statistics bars.
 
-![img2](./img/img2.png)
-
 ## Usage
 
 1. **Clone the repository**:
