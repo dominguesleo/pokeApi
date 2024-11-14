@@ -2,7 +2,7 @@
 
 This project is a practical example of using the Axios library to make HTTP requests in JavaScript. Additionally, Tanstack Query was implemented to cache previously made requests.
 
-![img1](./img/img1.png)
+![img](./img/img.png)
 
 ## Project Features
 
